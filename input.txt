@@ -1,0 +1,4 @@
+google.com
+microsoft.com
+boredbutton.com
+github.com
