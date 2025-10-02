@@ -24,15 +24,15 @@ pip install python-whois
 
 ## Usage
 1. **Lookup with Command-Line Arguments**
-To perform a lookup for one or more domains, provide them as space-separated arguments directly to the script:
+- To perform a lookup for one or more domains, provide them as space-separated arguments directly to the script:
 ```bash
 python whois_lookup.py google.com wikipedia.org
 ```
 
 2. Lookup with a File
-You can also provide a list of domains in a text file, with one domain per line.
+- You can also provide a list of domains in a text file, with one domain per line.
 
-Create a file (e.g., `input.txt`):
+- Create a file (e.g., `input.txt`):
 ```bash
 domain1.com
 domain2.net
